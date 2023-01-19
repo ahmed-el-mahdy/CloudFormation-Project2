@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "a-mahdy-project2"
+	},
+    {
+        "ParameterKey": "BucketName",
+        "ParameterValue": "mahdy9201-7460-9588"
+    }
+]
