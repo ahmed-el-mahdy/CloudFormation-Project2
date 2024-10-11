@@ -1,6 +1,10 @@
 # CloudFormation Project 2 ☁️
 
-![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-%E2%9C%94-blue.svg) ![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-%E2%9C%94-orange.svg)
+
+![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-%E2%9C%94-blue.svg)
+![image](https://github.com/user-attachments/assets/2e0c5841-8d27-45e8-9c62-1ceb4d572a72)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-%E2%9C%94-orange.svg)
+![full-project-diagram](https://github.com/user-attachments/assets/986a9a93-3feb-4b8f-b029-1ab6a74726ba)
 
 ## 🚀 Project Overview
 
